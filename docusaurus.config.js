@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Welcomments Documentation',
-  url: 'https://60a561c589858b3c192f1015--keen-nobel-67c5e6.netlify.app/',
+  url: 'https://welcomments.io',
   baseUrl: '/docs/',
   favicon: 'img/favicon.svg',
   organizationName: 'welcomments',
