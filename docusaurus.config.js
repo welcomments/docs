@@ -5,6 +5,7 @@ module.exports = {
   favicon: 'img/favicon.svg',
   organizationName: 'welcomments',
   projectName: 'docs',
+  scripts: [{ src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'welcomments.io' }],
   themeConfig: {
     colorMode: { disableSwitch: true },
     navbar: {
