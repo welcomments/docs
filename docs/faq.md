@@ -3,6 +3,12 @@ title: Frequently Asked Questions
 slug: faq
 ---
 
+## How can I delete a comment?
+
+Just delete the JSON file containing the comment on GitHub.
+
+Netlify will rebuild your website and the comment will disappear when your website is built and deployed.
+
 ## Where and how does Welcomments write the comment files?
 
 This depends on the permalink of your article and the static site generator you're using.
